@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Infect</h1>
 <h3 align="center">I am currently learning JavaScript.</h3>
 
-- 🔭 I’m currently working on **learning javascript.**
+- 🔭 I’m currently learning **javascript.**
 
-- 📫 How to reach me **infectob@protonmail.com**
+- 📫 Contact me at: **infectob@protonmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
